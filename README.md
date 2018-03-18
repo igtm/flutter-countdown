@@ -1,6 +1,6 @@
 # flutter-countdown
 
-![動画](./docs/demo.gif "動画")
+<img src="./docs/demo.gif" width="100%" title="動画">
 
 ## Getting Started
 

@@ -1,6 +1,6 @@
-# fluttertest
+# flutter-countdown
 
-A new Flutter project.
+![動画](./docs/demo.gif "動画")
 
 ## Getting Started
 
